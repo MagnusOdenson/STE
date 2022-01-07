@@ -15,16 +15,18 @@ Mocker is Platform-as-a-Service product that allows development teams to build, 
 
 ## How does Mocker work?
 
-Mocker container is bundle of software, libraries, and configuration files. The basis of a Mocker container is a template known as *image*. The Mocker image can be running in as many containers as necessary, depending on the cloud infrastructure.
+Mocker container is bundle of software, libraries, and configuration files. 
 
-Creation of Mocker images requires dev teams to be familiar with JavaScript and have basic understanding of app containers. If you are not familiar with app containers, the Mocker foundation can  provide configuration templates.
+*Image* - template that is a basis of Mocker container. The Mocker image runs in as many containers as necessary, limited only by the cloud infrastructure.
+
+To create Mocker images developer teams need to be familiar with JavaScript and have basic understanding of app containers. If you are not familiar with app containers, the Mocker foundation can  provide configuration templates.
 
 Each Mocker image is defined in a Mockerfile. When container is created from Mocker image, all the resources are bundled and run on virtual machine dedicated only to that Mocker container.
 
 Mocker can run on any cloud infrastructre.
 >**NOTE**\
->At this point Mocker is optimized for AWS, \
->because of this Amazon and the Mocker foundation offer documentation for developer that are not familiar with AWS. 
+>At this point, Mocker is optimized for AWS, \
+>because of this, Amazon and the Mocker foundation offer documentation for developer that are not familiar with AWS. 
 
 ## How to deploy software?
 
