@@ -30,10 +30,10 @@ Mocker can run on any cloud infrastructre.
 
 ## How to deploy software?
 
-What developers need to deploy Mocker-based microservices is to: 
+To deploy Mocker-based microservices: 
 - Install the Mocker daemon that runs and orchestrates containers on a given software virtualization platform in the cloud
-- To familiarize themselves with the structure git pushof Mockerfiles 
-- To familiarize themselves with the API of the Mocker daemon.
+- Familiarize themselves with the structure of Mockerfiles 
+- Familiarize themselves with the API of the Mocker daemon.
 
 >**NOTE**\
 >Unless customers pay to access Mocker's administrator tools, they will need to create their own scripts to control\
