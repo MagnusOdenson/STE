@@ -17,7 +17,7 @@ Mocker is Platform-as-a-Service product that allows development teams to build, 
 
 Mocker container is bundle of software, libraries, and configuration files. 
 
-*Image* - template that is a basis of Mocker container. The Mocker image runs in as many containers as necessary, limited only by the cloud infrastructure.
+*Image* - template that is a basis of Mocker container. The Mocker image runs in just as many containers as necessary, limited by the cloud infrastructure.
 
 To create Mocker images, developer teams need to be familiar with JavaScript and have basic understanding of app containers. If you are not familiar with app containers, the Mocker foundation can provide configuration templates.
 
